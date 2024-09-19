@@ -1,0 +1,134 @@
+body {
+    text-align:center; /* For aligning our text in center */
+line-height: 1.6;
+margin: 0;
+padding: 0;
+background-size: cover;
+color: #333;
+}
+
+.section{
+    color:black; /* black color for text */
+    border: 1px solid black;/* black color for border */
+    margin:20px;
+    font-size: 30px;
+    padding: 5px;
+    background-color:  rgb(229, 152, 218)  ;
+    font-style: italic  ;
+    border-radius: 10px;
+}
+.name{
+    border-radius: 10px;
+    margin:20px;
+    font-size: 20px;
+    border: 1px solid black;}
+p {
+    background-color: rgb(229, 152, 218);
+    border-radius: 10px;
+    margin:20px;
+    font-size: 20px;
+    border: 1px solid black;}
+form{
+    background-color: rgb(229, 152, 218);
+    border-radius: 10px;
+    margin:20px;
+    font-size: 20px;
+    border: 1px solid black;
+}
+.skills{
+    font-weight: bold;
+    font-variant: small-caps;
+    
+
+}
+textarea:hover {
+background-color: rgb(229, 152, 218) ;
+
+}
+.hobbies{
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+.activities{
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+.PersonalInformation{
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+
+.border{
+    border: 1px solid rgb(89, 112, 89);
+    margin:20px;
+    font-size: 20px;
+    padding: 6px;
+    border-radius: 10px;  
+}
+
+table{
+    text-align: center; /* For aligning our text in center */
+    border-style: dashed;
+    margin: 0 auto;
+    height: auto;
+    table-layout: fixed;
+
+}
+
+.p{
+    border:radius 30px;
+    font-size: medium;
+    text-align: center; /* For aligning our text in center */
+}
+
+th{
+    background-color: rgba(184, 78, 237, 0.775);/* lime color for background-color in th */
+    color: white; /* white color for text */
+    border: 1px solid black;/* black color for border */
+    margin:20px;
+    font-size: 16px;
+    padding: 5px;
+    text-align: left; /* For aligning our text in left */
+    width:20%;
+}
+
+li {
+    background-color: rgb(229, 152, 218);/* lime color for background-color in li */
+    text-align: left; /* For aligning our text in left */
+    color:black; /* black color for text */
+    border: 1px solid black;/* black color for border */
+    margin:10px;
+    font-size: 15px;
+    padding: 5px;
+    width: 100%;
+    border-radius: 10px;
+    width:95%;
+}
+
+a {
+color: #333;
+
+}
+
+.nav {
+    font-size: 30px;
+    background-color: rgb(229, 152, 218) ;/* lime color for background-color in .nav */
+    color:black; /* black color for text */
+    border: 1px solid black;
+}
+
+a:hover {
+    background-color:rgb(136, 107, 132); /* mediumspringgreen color for background-color in hover */
+}
+
+H3{
+    background-color:rgb(200, 125, 190);
+}
+
+img{
+    border-radius: 10px;
+    border: 3px solid black;
+}
